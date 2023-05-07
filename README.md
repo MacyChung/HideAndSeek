@@ -1,1 +1,1 @@
-# SquidGame_HideandSeek
+# HideAndSeek
